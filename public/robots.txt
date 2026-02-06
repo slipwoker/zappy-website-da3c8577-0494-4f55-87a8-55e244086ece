@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sofnet-computer-networks-ltd-da3c8577.zappy5.app/sitemap.xml

@@ -1,0 +1,85 @@
+# Sofnet Computer Networks LTD. — Generative Engine Optimization Map
+
+> A Information Technology business.
+
+---
+
+## Pages
+
+### Home
+https://sofnet-computer-networks-ltd-da3c8577.zappy5.app
+
+### Products
+https://sofnet-computer-networks-ltd-da3c8577.zappy5.app/products
+Our Products - Sofnet Computer Networks LTD.
+
+### Services
+https://sofnet-computer-networks-ltd-da3c8577.zappy5.app/services
+
+### Contact
+https://sofnet-computer-networks-ltd-da3c8577.zappy5.app/contact
+
+### Cart
+https://sofnet-computer-networks-ltd-da3c8577.zappy5.app/cart
+Your Cart
+
+### Checkout
+https://sofnet-computer-networks-ltd-da3c8577.zappy5.app/checkout
+Checkout
+
+### Login
+https://sofnet-computer-networks-ltd-da3c8577.zappy5.app/login
+Customer Login
+
+### Account
+https://sofnet-computer-networks-ltd-da3c8577.zappy5.app/account
+My Account
+
+### Order Success
+https://sofnet-computer-networks-ltd-da3c8577.zappy5.app/order-success
+Thank you for your order
+
+### Product Detail
+https://sofnet-computer-networks-ltd-da3c8577.zappy5.app/product/:slug
+Product Details - Sofnet Computer Networks LTD.
+
+### Category
+https://sofnet-computer-networks-ltd-da3c8577.zappy5.app/category/:slug
+Products - Sofnet Computer Networks LTD.
+
+## Legal & Policy
+
+### Privacy Policy
+https://sofnet-computer-networks-ltd-da3c8577.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://sofnet-computer-networks-ltd-da3c8577.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://sofnet-computer-networks-ltd-da3c8577.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Sofnet Computer Networks LTD.
+Sofnet Computer Networks LTD. is a business in the Information Technology industry.
+
+## Target Audience
+- IT Managers in Enterprises
+- Tech Startup Founders
+- Small Business Owners
+- Education Sector IT Admins
+
+## Industry
+Information Technology
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://sofnet-computer-networks-ltd-da3c8577.zappy5.app/sitemap.xml
+- **Robots.txt**: https://sofnet-computer-networks-ltd-da3c8577.zappy5.app/robots.txt
